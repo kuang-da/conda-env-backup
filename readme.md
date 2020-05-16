@@ -40,3 +40,9 @@ Cloned from r-env. TooManyCells package is actually installed by nix env. But tw
 
 ## r-visCello
 Cloned from r-env. Install `visCello` for C.elegant analysis.
+
+
+# Reference
+- [Execute conda in subshell script](https://erictleung.com/conda-in-subshell-script)
+- [Can't execute `conda activate` from bash script](https://github.com/conda/conda/issues/7980)
+- [No OS-agnostic way to use "conda env export"](https://github.com/conda/conda/issues/9399)
