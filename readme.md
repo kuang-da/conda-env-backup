@@ -1,5 +1,5 @@
 # About This Repo
-So far there are several environments on my Pop!_OS 19.10. I would like to make it as a discoupled environment so that I could migrate it to system.
+So far there are several environments on my Pop!_OS 19.10. I would like to make them decoupled from my device to increase the robustness and consistency of my computing system.
 
 ```
 # conda environments:
